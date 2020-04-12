@@ -1,2 +1,0 @@
-#!/bin/bash
-## Set of BASH scripts
